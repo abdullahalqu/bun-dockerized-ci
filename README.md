@@ -11,7 +11,7 @@ REF: [bun.sh](https://bun.sh)
 
       
       1. `export BUN_INSTALL="$HOME/.bun"`
-      2. `export PATH="$BUN_INSTALL/bin:$PATH"`
+      2. `export PATH="$BUN_INSTALL/bin:$PATH"` 
 2. Serve the file
 
    
